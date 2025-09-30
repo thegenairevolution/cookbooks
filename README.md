@@ -1,6 +1,6 @@
 # The GenAI Revolution Cookbooks
 
-Practical, ready-to-run Jupyter notebooks from [thegenairevolution.com](https://thegenairevolution.com).  
+Practical, ready-to-run Jupyter notebooks from [thegenairevolution.com](https://blog.thegenairevolution.com).  
 These notebooks are **cookbooks for Builders**—software engineers, ML developers, and technical professionals who want to design, build, and deploy **real-world Generative AI applications**.
 
 ---
