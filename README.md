@@ -66,7 +66,7 @@ If you’d like to improve a notebook, add a new recipe, or fix an issue:
 
 ## 🔗 Stay Connected
 
-- 🌐 Blog: [thegenairevolution.com](https://thegenairevolution.com)  
+- 🌐 Blog: [thegenairevolution.com](https://blog.thegenairevolution.com)  
 - 💼 LinkedIn: [Paco Awissi](https://www.linkedin.com/in/pacoawissi/)  
 - 🐙 GitHub: [thegenairevolution](https://github.com/thegenairevolution)
 
