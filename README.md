@@ -50,7 +50,7 @@ This repo is built for **Builders**:
 
 ## 📖 Learn More
 
-Each notebook is paired with a blog post on [The GenAI Revolution](https://thegenairevolution.com) that explains the **why** behind the code.  
+Each notebook is paired with a blog post on [The GenAI Revolution](https://blog.thegenairevolution.com) that explains the **why** behind the code.  
 Start with the blog, then dive into the notebook to experiment hands-on.
 
 ---
